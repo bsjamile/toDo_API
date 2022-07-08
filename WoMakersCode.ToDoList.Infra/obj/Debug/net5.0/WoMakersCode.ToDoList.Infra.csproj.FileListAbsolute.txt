@@ -67,3 +67,21 @@ C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\refint
 C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
 C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.genruntimeconfig.cache
 C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Infra.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.runtimeconfig.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.runtimeconfig.dev.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.csproj.CopyComplete
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\refint\WoMakersCode.ToDoList.Infra.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.genruntimeconfig.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Infra.dll

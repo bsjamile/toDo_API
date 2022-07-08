@@ -66,3 +66,20 @@ C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\
 C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\refint\WoMakersCode.ToDoList.Application.dll
 C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.pdb
 C:\Users\Jamile\Desktop\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Application.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Application.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Application.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Application.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.csproj.CopyComplete
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\refint\WoMakersCode.ToDoList.Application.dll
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\WoMakersCode.ToDoList.Application.pdb
+H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Application\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Application.dll

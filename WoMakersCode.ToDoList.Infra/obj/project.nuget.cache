@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRyra3usSmpHeviMfsubFcn06czjr6bkcMESPdAu2Gt7tKWcqEdk7CCpQl7lTcSUAJRqyEjz2gdQt18ul3TdwQ==",
+  "dgSpecHash": "twaf7D2OAjTR1DeGXSnXDXE1v59dgsvVuYkRsTFa8fuuaFI8cEDUCEqLJZ87kz/OxukulRMJlm7BVcnFo0NQUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jamile\\Desktop\\Todo\\WoMakersCode.ToDoList.Infra\\WoMakersCode.ToDoList.Infra.csproj",
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Infra\\WoMakersCode.ToDoList.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jamile\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jamile\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

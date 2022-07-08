@@ -19,12 +19,12 @@ namespace WoMakersCode.ToDoList.Application.UseCases
             _todoListRepository = todoListRepository;
             _mapper = mapper;
         }
-        public async Task<TaskListResponse> ExecuteAsync(TaskListRequest request)
+        public Task<TaskListResponse> ExecuteAsync(TaskListRequest request)
         {
             var req = _mapper.Map<TaskList>(request);
             _todoListRepository.UpdateTaskList(req);
 
-            return await Task.FromResult(new TaskListResponse());
+            return Task.FromResult(new TaskListResponse());
         }
     }
 }

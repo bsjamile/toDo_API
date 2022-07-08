@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYrng5EJp+hMavpD7CdvhRcW/16CmY4geuPZrZSeFtb7L3c/C3nzgI5gOyM81pOyBhhQUokCuPds3VVp2UeebA==",
+  "dgSpecHash": "qEeOFokGRbt6mQVL23LyLvu/2vrJ8xEaU0cEzlrbjM/GtA5kczUeeD9/OHoejG2dbDM8OPijKNo9gDCUKxPMAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jamile\\Desktop\\Todo\\WoMakersCode.ToDoList\\WoMakersCode.ToDoList.API.csproj",
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList\\WoMakersCode.ToDoList.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jamile\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Jamile\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

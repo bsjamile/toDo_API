@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WoMakersCode.ToDoList.Core/1.0.0": {
+        "runtime": {
+          "WoMakersCode.ToDoList.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WoMakersCode.ToDoList.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

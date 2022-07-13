@@ -6793,11 +6793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList\\WoMakersCode.ToDoList.API.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList\\WoMakersCode.ToDoList.API.csproj",
       "projectName": "WoMakersCode.ToDoList.API",
-      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList\\WoMakersCode.ToDoList.API.csproj",
+      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList\\WoMakersCode.ToDoList.API.csproj",
       "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList\\obj\\",
+      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6814,8 +6814,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Application\\WoMakersCode.ToDoList.Application.csproj": {
-              "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Application\\WoMakersCode.ToDoList.Application.csproj"
+            "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList.Application\\WoMakersCode.ToDoList.Application.csproj": {
+              "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList.Application\\WoMakersCode.ToDoList.Application.csproj"
             }
           }
         }

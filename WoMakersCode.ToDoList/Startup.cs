@@ -37,7 +37,7 @@ namespace WoMakersCode.ToDoList
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IUseCaseAsync<TaskListRequest, TaskListResponse>, InsertTodoListUseCase>();
+            services.AddTransient<IUseCaseAsync<TaskListInsertRequest, TaskListResponse>, InsertTodoListUseCase>();
             services.AddTransient<IUseCaseAsync<GetFilter, TaskListResponse>, GetTodoListUseCase>();
             services.AddTransient<IUseCaseAsync<TaskRequest, TaskResponse>, InsertTaskDetailUseCase>();
             services.AddTransient<IUseCaseAsync<TaskListRequest, TaskListResponse>, UpdateTaskListUseCase>();

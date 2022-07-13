@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oj3rBixDQ+JtoSEOvuWV1YuT4zO513hg+Tny+/3VXuMagGmv59w2yBH6AYTVsFidCNBip2rRLyzQ0BQlGGrZbQ==",
+  "dgSpecHash": "YNZm9hKjDkTrDexuULwaGsUI4He/wXQOCaPPwf2PM0M/1VsSAhhNyTo5e1ruPgLWgtGAu+ZxF/IqbiCpPe6P+Q==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Core\\WoMakersCode.ToDoList.Core.csproj",
+  "projectFilePath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList.Core\\WoMakersCode.ToDoList.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

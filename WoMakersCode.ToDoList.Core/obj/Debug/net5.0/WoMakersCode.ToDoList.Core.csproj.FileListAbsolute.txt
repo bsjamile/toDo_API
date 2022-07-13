@@ -58,3 +58,15 @@ H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Core\obj\Debu
 H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\refint\WoMakersCode.ToDoList.Core.dll
 H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.pdb
 H:\Meu Drive\GitHub\MeusProjetos\CSharp\Todo\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Core.dll
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.deps.json
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.dll
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.pdb
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.csproj.AssemblyReference.cache
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.AssemblyInfoInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.AssemblyInfo.cs
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.csproj.CoreCompileInputs.cache
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.dll
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\refint\WoMakersCode.ToDoList.Core.dll
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\WoMakersCode.ToDoList.Core.pdb
+H:\Meu Drive\GitHub\MeusProjetos\TodoAulaAPI\WoMakersCode.ToDoList.Core\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Core.dll

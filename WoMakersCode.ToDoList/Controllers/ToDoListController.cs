@@ -19,14 +19,14 @@ namespace WoMakersCode.ToDoList.Controllers
     {
 
         private readonly ILogger<ToDoListController> _logger;
-        private readonly IUseCaseAsync<TaskListRequest, TaskListResponse> _insertUseCase;
+        private readonly IUseCaseAsync<TaskListInsertRequest, TaskListResponse> _insertUseCase;
         private readonly IUseCaseAsync<GetFilter, TaskListResponse> _getUseCase;
         private readonly IUseCaseAsync<TaskRequest, TaskResponse> _insertTaskDetailUseCase;
         private readonly IUseCaseAsync<string, WeatherDTO> _getWeatherForecastUseCase;
         private readonly IUseCaseAsync<TaskListRequest, TaskListResponse> _updateUseCase;
 
         public ToDoListController(ILogger<ToDoListController> logger,
-            IUseCaseAsync<TaskListRequest, TaskListResponse> insertUseCase,
+            IUseCaseAsync<TaskListInsertRequest, TaskListResponse> insertUseCase,
             IUseCaseAsync<GetFilter, TaskListResponse> getUseCase,
             IUseCaseAsync<TaskRequest, TaskResponse> insertTaskDetailUseCase,
             IUseCaseAsync<string, WeatherDTO> getWeatherForecastUseCase,
@@ -51,7 +51,7 @@ namespace WoMakersCode.ToDoList.Controllers
         }
 
         [HttpPost]
-        public async Task<TaskListResponse> Post([FromBody]TaskListRequest request)
+        public async Task<TaskListResponse> Post([FromBody]TaskListInsertRequest request)
         {
             return await _insertUseCase.ExecuteAsync(request);
         }

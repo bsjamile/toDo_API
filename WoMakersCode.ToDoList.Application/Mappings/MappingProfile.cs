@@ -33,6 +33,10 @@ namespace WoMakersCode.ToDoList.Application.Mappings
                 .ForMember(dest => dest.Id, fonte => fonte.MapFrom(src => src.Id))
                 .ForMember(dest => dest.IdTaskList, fonte => fonte.MapFrom(src => src.IdTaskList))
                 .ForMember(dest => dest.Descricao, fonte => fonte.MapFrom(src => src.Descricao));
+
+            CreateMap<TaskListInsertRequest, TaskList>()
+                .ForMember(dest => dest.ListName, fonte => fonte.MapFrom(src => src.ListName))
+                .ForMember(dest => dest.IdColor, fonte => fonte.MapFrom(src => src.IdColor));
         }
     }
 }

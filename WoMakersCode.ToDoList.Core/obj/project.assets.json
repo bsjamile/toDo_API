@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Core\\WoMakersCode.ToDoList.Core.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList.Core\\WoMakersCode.ToDoList.Core.csproj",
       "projectName": "WoMakersCode.ToDoList.Core",
-      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Core\\WoMakersCode.ToDoList.Core.csproj",
+      "projectPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList.Core\\WoMakersCode.ToDoList.Core.csproj",
       "packagesPath": "C:\\Users\\Jamile\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\CSharp\\Todo\\WoMakersCode.ToDoList.Core\\obj\\",
+      "outputPath": "H:\\Meu Drive\\GitHub\\MeusProjetos\\TodoAulaAPI\\WoMakersCode.ToDoList.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamile\\AppData\\Roaming\\NuGet\\NuGet.Config",

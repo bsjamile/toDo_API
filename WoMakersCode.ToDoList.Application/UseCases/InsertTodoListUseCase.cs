@@ -11,7 +11,7 @@ using WoMakersCode.ToDoList.Infra.Repositories;
 
 namespace WoMakersCode.ToDoList.Application.UseCases
 {
-    public class InsertTodoListUseCase : IUseCaseAsync<TaskListRequest, TaskListResponse>
+    public class InsertTodoListUseCase : IUseCaseAsync<TaskListInsertRequest, TaskListResponse>
     {
         private readonly IRepository _todoListRepository;
         private readonly IMapper _mapper;
@@ -22,7 +22,7 @@ namespace WoMakersCode.ToDoList.Application.UseCases
             _mapper = mapper;
         }
 
-        public Task<TaskListResponse> ExecuteAsync(TaskListRequest request)
+        public Task<TaskListResponse> ExecuteAsync(TaskListInsertRequest request)
         {
             var taskList = _mapper.Map<TaskList>(request);
 

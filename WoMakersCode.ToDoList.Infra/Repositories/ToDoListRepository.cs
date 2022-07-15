@@ -62,9 +62,7 @@ namespace WoMakersCode.ToDoList.Infra.Repositories
         public Task UpdateTaskList(TaskList taskList)
         {
             _context.Update(taskList);
-
             _context.SaveChanges();
-
             return Task.CompletedTask;
         }
     }

@@ -31,4 +31,4 @@ INSERT INTO tasklists  (ListName, IdColor)
 VALUES ( 'Lista 1', 1)
 
 DELETE from tasklists where ListName = 'Lista 1';
-
+select * from tasklists

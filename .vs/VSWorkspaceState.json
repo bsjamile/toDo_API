@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WoMakersCode.ToDoList",
+    "\\WoMakersCode.ToDoList.Application",
+    "\\WoMakersCode.ToDoList.Application\\Mappings",
+    "\\WoMakersCode.ToDoList.Application\\UseCases",
+    "\\WoMakersCode.ToDoList.Core",
+    "\\WoMakersCode.ToDoList.Core\\Repositories",
+    "\\WoMakersCode.ToDoList.Infra",
+    "\\WoMakersCode.ToDoList.Infra\\Repositories",
+    "\\WoMakersCode.ToDoList\\Controllers"
+  ],
+  "SelectedNode": "\\WoMakersCode.ToDoList.Application\\Mappings\\MappingProfile.cs",
+  "PreviewInSolutionExplorer": false
+}
